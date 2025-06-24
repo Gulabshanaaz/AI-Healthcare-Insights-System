@@ -1,0 +1,9 @@
+pypdf2
+spacy
+bert-extractive-summarizer
+transformers
+nltk
+gensim
+scikit-learn
+pandas
+sqlite3
